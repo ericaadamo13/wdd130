@@ -1,3 +1,28 @@
+main {
+    max-width: 840px;
+}
+
+aside {
+    width: 60rem;
+    margin: 5rem;
+    border: 2px solid;
+    padding: 1rem;
+    background-color:beige;
+    color: green;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+main img {
+    width: 300px;
+    height: auto;
+}
+
+p { padding: 0;}
+
 nav {
     background-color: darkblue;
     padding: 10px;
@@ -20,6 +45,8 @@ img {
     box-shadow: 0 0 30px gray;
 }
 
-p {
-    padding: 10px;
+footer {
+    margin-top: 15px;
+    border-top: 1px solid #000;
+    text-align: center;
 }
